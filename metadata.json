@@ -1,0 +1,5 @@
+{
+  "name": "Game Card Generator",
+  "description": "A high-quality card generation and printing tool for a custom tabletop game featuring Spark, Action, Challenge, and Judge cards.",
+  "requestFramePermissions": []
+}
